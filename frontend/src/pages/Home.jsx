@@ -12,7 +12,7 @@ const Home = () => {
                 <div id={styles.hero_container}>
                     <div id={styles.hero_header}>
                         <h1>Sheridan Golf Club</h1>
-                        <a>Become a member</a>
+                        <a href="https://discord.gg/GF5juduVBY" target="_blank">Become a member</a>
                     </div>
                     <div id={styles.popup}>
 
