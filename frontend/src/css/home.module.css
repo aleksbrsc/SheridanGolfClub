@@ -44,26 +44,6 @@
     -webkit-text-fill-color: transparent;
 }
 
-@media (max-width: 1057px) {
-    #hero_header h1 {
-        font-size: 5rem;
-    }
-}
-
-@media (max-width: 700px) {
-    #hero_header h1 {
-        font-size: 4.5rem;
-        width: 20rem;
-    }
-}
-
-@media (max-width: 300px) {
-    #hero_header h1 {
-        font-size: 3.5rem;
-        width: 15rem;
-    }
-}
-
 #hero_header a {
     display: flex;
     padding: 1.125rem 1.75rem;
@@ -117,4 +97,29 @@
     height: 100%;
     flex-shrink: 0;
     background: rgba(5, 12, 79, 0.15);
+}
+
+@media (max-width: 1057px) {
+    #hero_header h1 {
+        font-size: 5rem;
+    }
+}
+
+@media (max-width: 700px) {
+    #hero_header h1 {
+        font-size: 4.5rem;
+        width: 20rem;
+    }
+
+    #hero_banner img {
+        object-fit: unset;
+        object-position: unset;
+    }
+}
+
+@media (max-width: 300px) {
+    #hero_header h1 {
+        font-size: 3.5rem;
+        width: 15rem;
+    }
 }
