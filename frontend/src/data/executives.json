@@ -1,0 +1,59 @@
+{
+    "executives": [
+      {
+        "first_name": "Frederik Dahl",
+        "last_name": "Hansen",
+        "title": "President & Founder",
+        "duties": "Club Coordinator",
+        "linkedin": "https://www.linkedin.com/in/frederik-dahl-hansen/",
+        "email": "hansenf@sheridancollege.ca",
+        "img": ""
+      },
+      {
+        "first_name": "Zackary",
+        "last_name": "Overend",
+        "title": "Vice-President & Co-Founder",
+        "duties": "Head of Club Management",
+        "linkedin": "https://www.linkedin.com/in/zackaryoverend/",
+        "email": "overendz@sheridancollege.ca",
+        "img": ""
+      },
+      {
+        "first_name": "Nicole",
+        "last_name": "Morenas",
+        "title": "Executive & Founding Member",
+        "duties": "Treasurer",
+        "linkedin": "https://www.linkedin.com/in/nicolemorenas/",
+        "email": "morenas@sheridancollege.ca",
+        "img": ""
+      },
+      {
+        "first_name": "Julius",
+        "last_name": "Nillo",
+        "title": "Executive & Founding Member",
+        "duties": "Event Coordinator",
+        "linkedin": "https://www.linkedin.com/in/julius-nillo/",
+        "email": "nilloj@sheridancollege.ca",
+        "img": ""
+      },
+      {
+        "first_name": "Puneet",
+        "last_name": "Dheri",
+        "title": "Executive & Founding Member",
+        "duties": "SoMe Operations",
+        "linkedin": "https://www.linkedin.com/in/puneet-dheri/",
+        "email": "dheripu@sheridancollege.ca",
+        "img": ""
+      },
+      {
+        "first_name": "Aleksander",
+        "last_name": "Bursac",
+        "title": "Executive Member",
+        "duties": "Lead Developer",
+        "linkedin": "https://www.linkedin.com/in/aleksbrsc/",
+        "email": "bursaca@sheridancollege.ca",
+        "img": ""
+      }
+    ]
+  }
+  
