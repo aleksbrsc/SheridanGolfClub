@@ -1,0 +1,21 @@
+/* || ABOUT SECTION */
+
+.about_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-inline: var(--inline_padding);
+}
+
+.about_container {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    width: clamp(var(--min_width), 100%, var(--max_width));
+    border-radius: 0.9375rem;
+    gap: 2.8125rem
+}
